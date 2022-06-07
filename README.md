@@ -4,7 +4,7 @@ selenium Framework task using Java , Maven , TestNG , POM Design Pattern
 And using BDD "Cucumber" in this task 
 
 
-#Tech Stach:
+# Tech Stach:
 
  -Java 
  -Maven
