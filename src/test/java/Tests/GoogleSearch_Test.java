@@ -13,7 +13,7 @@ public class GoogleSearch_Test extends TestBase {
 	SearchResultPage SearchResult_page;
 	SeleniumSitePage SeleniumSite_page;
 	
-	//check that user can search for anything and assert on test result
+	//check that user can search for anything and assert on test result "first link"
 	@Test(priority = 1)
 	public void UserCanSearchSuccessfully() 
 	{

@@ -13,7 +13,12 @@ public class SearchResultPage extends PageBase {
 	@FindBy(xpath = "//*[text()='WebDriver - Selenium.dev']")
 	public WebElement FirstLink;
 	
-	public void ClickOnFirstLink() 
+	
+	
+	
+	// get the first link and click on it 
+	
+	public void ClickOnFirstLink()
 	{
 		FirstLink.click();
 	}
