@@ -6,11 +6,11 @@ And using BDD "Cucumber" in this task
 
 # Tech Stach:
 
- -Java 
- -Maven
- -TestNG
- -BDD
- -POM Pattern
+ - Java 
+ - Maven
+ - TestNG
+ - BDD
+ - POM Pattern
  
  
  It's a simple demo for using selenium and BDD or Cucumber
